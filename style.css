@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-position: 0px, 500px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 600;
+}   
+.v{
+    color: rgb(157, 13, 214);
+}
+.c{
+    font-size: 20px;
+}
+section{
+    display: flex;
+}
+.d{
+    width: 50%;
+    margin-left: 50px;
+}
+
+.e{
+    width: 50%;
+}
+.e img{
+    padding-left: 20% ;
+}
+.l{
+   text-decoration: none;
+   background-image:linear-gradient(red, tomato) ;
+   padding: 4px;
+   color: rgba(255, 254, 252, 0.924);
+   border-radius: 4px;
+}
+.background{
+    background-image: url(slidescarnival-background-image.png);
+    padding-bottom: 500px;
+    
+}
