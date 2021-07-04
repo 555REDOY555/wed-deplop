@@ -26,6 +26,7 @@ section{
 }
 .e img{
     padding-left: 20% ;
+    background-repeat: no-repeat ;
 }
 .l{
    text-decoration: none;
@@ -36,6 +37,27 @@ section{
 }
 .background{
     background-image: url(slidescarnival-background-image.png);
-    padding-bottom: 500px;
+    margin: 0;
+   
+}
+.background img{
+    background-repeat: no-repeat;
     
+   
+}
+.lo{
+   text-align: right;
+   background-color:     #FF9700 ;
+   margin-right: 10px;
+}
+.new{
+    text-align: center;
+}
+.re{
+    font-weight: bolder;
+    margin: 0;
+    text-align: center;
+}
+.che{
+    color: red ;
 }
