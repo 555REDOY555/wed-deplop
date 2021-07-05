@@ -36,7 +36,7 @@ section{
    border-radius: 4px;
 }
 .background{
-    background-image: url(slidescarnival-background-image.png);
+    background-image: url(img/slidescarnival-background-image.png);
     margin: 0;
    
 }
@@ -48,7 +48,8 @@ section{
 .lo{
    text-align: right;
    background-color:     #FF9700 ;
-   margin-right: 10px;
+   margin-right: 0px;
+   display: flex;
 }
 .new{
     text-align: center;
@@ -60,4 +61,40 @@ section{
 }
 .che{
     color: red ;
+}
+.color{
+    background-color: #FF9700;
+    background-repeat: no-repeat;
+    display: flex;
+
+}
+
+#redoy{
+    background-color: #FF9700;
+    text-align: center;
+}
+
+.colam{
+    width: 100%;
+  
+    
+
+}
+#img1{
+    float:left ;
+    width: 40%;
+    display: flex;
+ 
+ 
+}
+#img2{
+    padding-left: 0%;
+    background-color: #FF9700;
+    box-shadow: 10px 10px gray;
+    width: 40%; 
+    display: flex;
+    float: right;
+ 
+ 
+    
 }
