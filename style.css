@@ -62,16 +62,22 @@ section{
 .che{
     color: red ;
 }
+#reo{
+    text-align: center;
+    background-color: #FF9700;
+    margin: 0;
+    padding-bottom: 100px;
+    font-weight: bolder;
+   
+
+    
+}
 .color{
     background-color: #FF9700;
     background-repeat: no-repeat;
     display: flex;
+    width: 100%;
 
-}
-
-#redoy{
-    background-color: #FF9700;
-    text-align: center;
 }
 
 .colam{
@@ -84,17 +90,45 @@ section{
     float:left ;
     width: 40%;
     display: flex;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 50px;
+    margin-bottom: 100px;
+    
  
  
 }
 #img2{
     padding-left: 0%;
     background-color: #FF9700;
-    box-shadow: 10px 10px gray;
+   box-shadow: 10px 10px 40px gray;
     width: 40%; 
     display: flex;
     float: right;
+    margin-right: 50px;
+    border-radius: 10px;
+
  
  
     
+}
+.loos{
+    display: flex;
+    background-color: #FF9700;
+}   
+#loos1{
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    margin-top: 0;
+    padding-top: 0;
+    font-weight: 800;
+}
+#loos2{
+    text-align: justify;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    font-weight: 800;
+
 }
